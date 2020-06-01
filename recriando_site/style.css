@@ -1,0 +1,35 @@
+h1 {
+    color: #000;
+}
+
+body{
+    color: lightslategray;
+    background-color: aquamarine;
+    padding: 10px;
+}
+
+h3{
+    color: yellow;
+}
+
+.dias_da_semana{
+    color: darkslategray;
+}
+
+h2 {
+    color: black;
+    background-color: yellow;
+}
+
+.segunda {
+    color: black;
+}
+
+
+.terca {
+    color: black;
+}
+
+#astronomy-class {
+    color: red;
+}
